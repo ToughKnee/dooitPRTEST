@@ -13,7 +13,7 @@ to make sure that you complete your tasks on time ;)
 
 # Installation 🔨
 
-Dooit can be installed with various package managers!
+Doit can be installed with various package managers!
 
 ### With Pip 🐍
 
